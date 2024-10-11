@@ -1,4 +1,4 @@
-# This is in beta and is still being developed, all things described in this readme may not be final!
+# This is A FORK!!!  Maybe it will work, maybe not. 
 
 <!-- Logo And Title -->
 
