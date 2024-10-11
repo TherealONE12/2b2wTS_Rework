@@ -22,14 +22,14 @@ export class BotOptions implements IBotOptions {
   username = '2b2wUser';
   host = '2b2t.org';
   port = 25565;
-  version = '1.12.2';
+  version = '1.20.0';
 }
 
 export class ServerOptions implements IServerOptions {
   'online-mode' = false;
   host = '0.0.0.0';
   port? = 25565;
-  version = '1.12.2';
+  version = '1.20.0';
   maxPlayers? = 1;
 }
 
